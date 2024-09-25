@@ -1,6 +1,4 @@
 # Smart-Car-Parking-System
-Smart Car System Project Description
-
 A smart car system is an innovative project that integrates advanced technologies to enhance the safety, comfort, and convenience of driving. The system combines various sensors, software, and hardware components to create a sophisticated and intelligent vehicle.
 
 Key Features:
